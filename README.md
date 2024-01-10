@@ -27,7 +27,7 @@ ToDoList App demonstrates modern Android development
 - ColorPicker: Simple android color picker with color wheel and lightness bar.
 
 ## Architecture
-**ToDoListApp** is based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
+**ToDoListApp** 
 
 ![architecture](figure/figure0.png)
 
