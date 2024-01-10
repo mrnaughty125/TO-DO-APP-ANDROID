@@ -3,9 +3,10 @@
 ToDoList App is a demonstration of modern Android development techniques.
 
 ## Screenshots:
-![Screenshot 1](/screenshots/1.jpg) ![Screenshot 2](/screenshots/2.jpg)
-![Screenshot 4](/screenshots/4.jpg) ![Screenshot 5](/screenshots/5.jpg)
-![Screenshot 6](/screenshots/6.jpg) ![Screenshot 7](/screenshots/7.jpg)
+<div align="center">
+  <img src="/screenshots/1.jpg" height="400px"/> <img src="/screenshots/2.jpg" height="400px"/> <img src="/screenshots/4.jpg" height="400px"/>
+  <img src="/screenshots/5.jpg" height="400px"/> <img src="/screenshots/6.jpg" height="400px"/> <img src="/screenshots/7.jpg" height="400px"/>
+</div>
 
 ## Project Description:
 
