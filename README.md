@@ -4,7 +4,7 @@ ToDoList App is a demonstration of modern Android development techniques.
 
 ## Screenshots:
 <div align="center">
-  <img src="/screenshots/1.jpg" height="400px"/> <img src="/screenshots/2.jpg" height="400px"/> <img src="/screenshots/4.jpg" height="400px"/>
+  <img src="/screenshots/1.jpg" height="400px"/> <img src="/screenshots/2.jpg" height="400px"/> <img src="/screenshots/4.jpg" height="400px"/><br>
   <img src="/screenshots/5.jpg" height="400px"/> <img src="/screenshots/6.jpg" height="400px"/> <img src="/screenshots/7.jpg" height="400px"/>
 </div>
 
