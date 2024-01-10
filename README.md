@@ -2,7 +2,7 @@
 
 
 <p >  
-ToDoList App demonstrates modern Android development with Hilt, Coroutines, LiveData, Jetpack (Room, ViewModel), and Material 3 Design based on MVVM architecture. 
+ToDoList App demonstrates modern Android development 
 </p>
 
 # Screenshots:
@@ -20,13 +20,11 @@ ToDoList App demonstrates modern Android development with Hilt, Coroutines, Live
   - DataBinding: Binds UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
   - Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
   - Navigation Component Graphs - To use single activity multiple fragment architecture.
-  - [Hilt](https://dagger.dev/hilt/): For dependency injection.
-  - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) For asynchronous programming.
 - Architecture
   - MVVM Architecture (View - DataBinding - ViewModel - Model)
   - Repository Pattern
-- [Material-Components](https://github.com/material-components/material-components-android): Material design components for building ripple animation, and CardView.
-- [ColorPicker](https://github.com/QuadFlask/colorpicker): Simple android color picker with color wheel and lightness bar.
+- Material-Components: Material design components for building ripple animation, and CardView.
+- ColorPicker: Simple android color picker with color wheel and lightness bar.
 
 ## Architecture
 **ToDoListApp** is based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
